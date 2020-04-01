@@ -1,10 +1,10 @@
 # Matplotlib  - The Power of Plots
 
-## Background
+## Background:
 
 The purpose of this study is to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
 
-## Instructions
+## Instructions:
 
 Tasks are to do the following:
 
@@ -30,9 +30,9 @@ Tasks are to do the following:
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
-* Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
+* Review generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
 
-Here are some final considerations:
+Final considerations:
 
 * Use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
